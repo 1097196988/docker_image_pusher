@@ -1,4 +1,2 @@
-canal/canal-server:v1.1.7
-coopersoft/canal-adapter:v1.1.6
-elasticsearch:7.17.14
-kibana:7.17.14
+alpine:3.18.2
+mysql:8.0.32
