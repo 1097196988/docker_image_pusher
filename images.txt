@@ -1,1 +1,1 @@
-node:18-alpine
+nginx:1.25.3
