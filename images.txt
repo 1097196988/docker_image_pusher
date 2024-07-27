@@ -1,1 +1,1 @@
-openjdk:8-jre-slim
+zookeeper:3.9.0
